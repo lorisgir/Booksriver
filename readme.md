@@ -23,7 +23,7 @@ To install Booksriver, follow these simple steps:
 1. Clone this repository to your local machine
 2. Open the project in Android Studio
 3. Build and run the project on your device
-4. Buld and deploy the Backend Server
+4. Buld and deploy the [Backend Server](https://github.com/lorisgir/Booksriver-Backend-Server)
 
 
 ## Contributing 🤝
